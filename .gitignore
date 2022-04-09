@@ -10,7 +10,10 @@ _site
 *.md
 *.sh
 *.py
+*.pyc
 *.sql
+*.js
+*.css
 *.html
 
 # Byte-compiled / optimized / DLL files
